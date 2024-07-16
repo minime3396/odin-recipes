@@ -1,0 +1,12 @@
+h1 {
+    color:rgb(1, 50, 94);
+    background: rgb(54, 149, 238);
+    font-size: 35px;
+    text-align: center;
+}
+ol {
+    background-color:rgb(77, 166, 250) ;
+    color: black
+}
+
+/* Finished the index page. now to figure out how to decorate the idividual pages*/
